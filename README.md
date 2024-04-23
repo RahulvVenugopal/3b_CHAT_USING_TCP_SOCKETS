@@ -32,7 +32,7 @@ msg=input("Client > ")
 s.send(msg.encode()) 
 print("Server > ",s.recv(1024).decode()) 
 ```
-## OUPUT
+
 ![Screenshot (170)](https://github.com/RahulvVenugopal/3b_CHAT_USING_TCP_SOCKETS/assets/144132514/37f712bf-2e33-4ad1-8e53-0f51a6c74d90)
 
 ## RESULT
